@@ -44,14 +44,12 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Router>
           <Header currentUser={this.state.currentUser} />
           <Switch>
             <Route exact path="/" component={HomePage} />
             <Route path="/shop" component={ShopPage} />
             <Route path="/signin" component={SignInAndSignUpPage} />
           </Switch>
-        </Router>
       </div>
     );
   }
