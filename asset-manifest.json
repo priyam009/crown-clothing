@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/crown-clothing/static/css/main.fa898f5c.chunk.css",
+    "main.js": "/crown-clothing/static/js/main.cdf0271d.chunk.js",
+    "main.js.map": "/crown-clothing/static/js/main.cdf0271d.chunk.js.map",
+    "runtime-main.js": "/crown-clothing/static/js/runtime-main.abaa3ce4.js",
+    "runtime-main.js.map": "/crown-clothing/static/js/runtime-main.abaa3ce4.js.map",
+    "static/js/2.c194d360.chunk.js": "/crown-clothing/static/js/2.c194d360.chunk.js",
+    "static/js/2.c194d360.chunk.js.map": "/crown-clothing/static/js/2.c194d360.chunk.js.map",
+    "index.html": "/crown-clothing/index.html",
+    "precache-manifest.7ea05facf42916c26b15f18682fc2a04.js": "/crown-clothing/precache-manifest.7ea05facf42916c26b15f18682fc2a04.js",
+    "service-worker.js": "/crown-clothing/service-worker.js",
+    "static/css/main.fa898f5c.chunk.css.map": "/crown-clothing/static/css/main.fa898f5c.chunk.css.map",
+    "static/js/2.c194d360.chunk.js.LICENSE.txt": "/crown-clothing/static/js/2.c194d360.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/crown-clothing/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/crown-clothing/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abaa3ce4.js",
+    "static/js/2.c194d360.chunk.js",
+    "static/css/main.fa898f5c.chunk.css",
+    "static/js/main.cdf0271d.chunk.js"
+  ]
+}
